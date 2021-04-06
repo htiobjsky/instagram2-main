@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/heetaekim/AndroidStudioProjects/instagram2-main/build/camera/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/heetaekim/.gradle/caches/transforms-2/files-2.1/4c5840a9f62f0f72341d9e21982aed2a/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/heetaekim/AndroidStudioProjects/instagram2-main/build/camera/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/heetaekim/.gradle/caches/transforms-2/files-2.1/4c5840a9f62f0f72341d9e21982aed2a/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/heetaekim/AndroidStudioProjects/instagram2-main/build/camera/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/heetaekim/.gradle/caches/transforms-2/files-2.1/4c5840a9f62f0f72341d9e21982aed2a/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/heetaekim/AndroidStudioProjects/instagram2-main/build/camera/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/heetaekim/.gradle/caches/transforms-2/files-2.1/4c5840a9f62f0f72341d9e21982aed2a/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]

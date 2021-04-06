@@ -1,0 +1,14 @@
+com/csdcorp/local_image_provider/GlideOptions.java
+ com.csdcorp.local_image_provider.GlideOptions
+com/csdcorp/local_image_provider/BuildConfig.java
+ com.csdcorp.local_image_provider.BuildConfig
+com/bumptech/glide/GeneratedRequestManagerFactory.java
+ com.bumptech.glide.GeneratedRequestManagerFactory
+com/csdcorp/local_image_provider/GlideRequests.java
+ com.csdcorp.local_image_provider.GlideRequests
+com/bumptech/glide/GeneratedAppGlideModuleImpl.java
+ com.bumptech.glide.GeneratedAppGlideModuleImpl
+com/csdcorp/local_image_provider/GlideRequest.java
+ com.csdcorp.local_image_provider.GlideRequest
+com/csdcorp/local_image_provider/GlideApp.java
+ com.csdcorp.local_image_provider.GlideApp

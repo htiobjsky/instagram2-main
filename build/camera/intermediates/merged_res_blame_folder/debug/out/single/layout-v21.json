@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/heetaekim/AndroidStudioProjects/instagram2-main/build/camera/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/heetaekim/.gradle/caches/transforms-2/files-2.1/4c5840a9f62f0f72341d9e21982aed2a/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/heetaekim/AndroidStudioProjects/instagram2-main/build/camera/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/heetaekim/.gradle/caches/transforms-2/files-2.1/4c5840a9f62f0f72341d9e21982aed2a/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/heetaekim/AndroidStudioProjects/instagram2-main/build/camera/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/heetaekim/.gradle/caches/transforms-2/files-2.1/4c5840a9f62f0f72341d9e21982aed2a/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/heetaekim/AndroidStudioProjects/instagram2-main/build/camera/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/heetaekim/.gradle/caches/transforms-2/files-2.1/4c5840a9f62f0f72341d9e21982aed2a/core-1.1.0/res/layout-v21/notification_action.xml"
+    }
+]

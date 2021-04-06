@@ -1,0 +1,6 @@
+framework module local_image_provider {
+  umbrella header "local_image_provider-umbrella.h"
+
+  export *
+  module * { export * }
+}

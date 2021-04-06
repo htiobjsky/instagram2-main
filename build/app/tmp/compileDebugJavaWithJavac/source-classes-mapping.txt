@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/htiobjsky/instagram_two_record/BuildConfig.java
+ com.htiobjsky.instagram_two_record.BuildConfig
