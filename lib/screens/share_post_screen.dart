@@ -15,6 +15,7 @@ import 'package:provider/provider.dart';
 
 class SharePostScreen extends StatefulWidget {
   final File imageFile;
+
   final String postKey;
 
   SharePostScreen(this.imageFile, {Key key, @required this.postKey})

@@ -5,7 +5,7 @@ import 'package:flutter/foundation.dart';
 import 'package:instagram_two_record/repo/helper/image_helper.dart';
 
 class ImageNetworkRepository {
-  Future<void> uploadImage(File originImage, {@required String postKey}) async {
+  Future<TaskSnapshot> uploadImage(File originImage, {@required String postKey}) async {
     try {
       final File resized = await compute(getResizedImage, originImage);
       // originImage.length().then((value) =>
